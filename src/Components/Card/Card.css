@@ -1,0 +1,11 @@
+
+.bodyCard{
+    width: 245px;
+    height: 300px; 
+    cursor: pointer;
+    background: rgb(211,254,211);
+background: linear-gradient(27deg, rgba(211,254,211,1) 0%, rgba(5,93,116,1) 0%, rgba(68,209,139,1) 52%, rgba(10,97,153,1) 100%);
+
+}
+
+

@@ -1,0 +1,16 @@
+.Black{
+    /* height: 210px; */
+    /* width: 600px; */
+    float: right;
+   
+}
+
+.line{
+    width: 70px;
+    border-top: 3px solid white;
+    /* padding:10px 10px 10px 0; */
+}
+
+.amaz{
+    color: white;
+}
